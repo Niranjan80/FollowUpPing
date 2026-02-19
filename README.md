@@ -374,30 +374,6 @@ DATABASE_URL=sqlite:///followups.db
 ```env
 VITE_API_URL=http://localhost:5000
 ```
-
----
-
-## 🎓 What This Assignment Demonstrates
-
-✅ **Full-Stack Development:** Backend + Frontend + Database in 48 hours
-✅ **Modern Stack:** Flask, React, SQLite with best practices
-✅ **Clean Code:** Modular structure, proper separation of concerns
-✅ **User Experience:** Responsive design, intuitive interface
-✅ **API Design:** RESTful endpoints with proper status codes
-✅ **Database Design:** Normalized schema with proper validation
-✅ **AI Collaboration:** Smart use of AI tools with manual verification
-✅ **Documentation:** Clear code, inline comments, detailed README
-
----
-
-## 📞 Support
-
-For questions about the codebase:
-1. Check [claude.md](claude.md) for AI usage and architecture
-2. Review code comments in Flask routes and React components
-3. API documentation above shows all endpoints
-4. Database schema clearly defined in models.py
-
 ---
 
 **Built during a 48-hour technical assessment | Better Software - Associate Software Engineering Role**
