@@ -378,12 +378,6 @@ For questions about the codebase:
 
 ---
 
-## 📄 License
-
-MIT License - See [LICENSE](LICENSE)
-
----
-
 **Built during a 48-hour technical assessment | Better Software - Associate Software Engineering Role**
 
 *Last Updated: February 19, 2026*
