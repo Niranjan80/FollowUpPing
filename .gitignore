@@ -1,3 +1,8 @@
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
 # Backend
 backend/__pycache__/
 backend/*.pyc
@@ -12,7 +17,6 @@ backend/dist/
 backend/build/
 backend/.env
 backend/.env.local
-backend/followups.db
 backend/.DS_Store
 
 # Frontend
