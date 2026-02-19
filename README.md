@@ -45,10 +45,16 @@ npm run dev
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard](./assets/dashboard.png)
+![Dashboard Overview](./assets/1.png)
 
-### Add Follow-Up Form
-![Add Follow-Up](./assets/add-followup.png)
+### Add Follow-Up Form  
+![Add Follow-Up](./assets/2.png)
+
+### Edit Follow-Up
+![Edit Follow-Up](./assets/3.png)
+
+### Follow-Up Management
+![Follow-Up Management](./assets/4.png)
 
 ## 🏗️ How Data Flows (Simple Explanation)
 
