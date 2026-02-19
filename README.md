@@ -44,10 +44,9 @@ npm run dev
 
 ## 🎥 Working Demo Video
 
-<video width="600" controls>
-  <source src="./assets/Working-video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+**Watch the full working demo:** [▶️ Working-video.mp4](./assets/Working-video.mp4)
+
+Or view directly: https://github.com/Niranjan80/FollowUpPing/raw/main/assets/Working-video.mp4
 
 ---
 
